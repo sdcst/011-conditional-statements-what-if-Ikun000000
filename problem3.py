@@ -23,3 +23,6 @@
  Enter password: password
  Access denied
 """
+
+import math
+math.ceil(4)

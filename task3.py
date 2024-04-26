@@ -31,3 +31,12 @@ Enter a number: 10000
 
 
 """
+x = float(input("The number"))
+if 10 > x >= 0:
+ print("0")
+if 100>x>=10:
+  print("1")
+if 1000>x>=100:
+  print("2")
+if x>=1000:
+  print("3")
